@@ -10,7 +10,6 @@ A React-based web application for browsing and booking livestock (cows) for **Qu
 
 <img width="1839" height="4663" alt="screencapture-assignment-8-five-blue-vercel-app-2026-05-01-22_15_43" src="https://github.com/user-attachments/assets/778e03e0-2364-4ff8-8f09-5f6bd84b52d8" />
 
-
 ---
 
 ## ✨ Key Features
@@ -28,16 +27,16 @@ A React-based web application for browsing and booking livestock (cows) for **Qu
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| Next.js | React framework (SSR, routing, performance) |
-| React | Frontend UI library |
-| React Router DOM | Client-side routing |
-| Hero UI | Component library |
-| React Icons | Icon set |
-| Gravity Icons | Additional icons |
-| Animate.css | CSS animations |
-| Vercel | Deployment |
+| Technology       | Purpose                                     |
+| ---------------- | ------------------------------------------- |
+| Next.js          | React framework (SSR, routing, performance) |
+| React            | Frontend UI library                         |
+| React Router DOM | Client-side routing                         |
+| Hero UI          | Component library                           |
+| React Icons      | Icon set                                    |
+| Gravity Icons    | Additional icons                            |
+| Animate.css      | CSS animations                              |
+| Vercel           | Deployment                                  |
 
 ---
 
@@ -113,9 +112,10 @@ This project is deployed on **Vercel**. Any push to the main branch automaticall
 ## 👨‍💻 Author
 
 **Salman**
-- Email: salmanibnriyaj@gmail.com
-- Yahoo: salmanibnriyaj@yahoo.com
-- WhatsApp: +8801894692543
+
+- Email: rajib.faysal.124@gmail.com
+- Yahoo: rajib.faysal.124@yahoo.com
+- WhatsApp: +880177228811
 
 ---
 

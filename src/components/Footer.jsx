@@ -1,7 +1,6 @@
-import { LogoFacebook } from "@gravity-ui/icons";
-import Link from "next/link";
-import { LogoLinkedin } from "@gravity-ui/icons";
-import { FaMastodon } from "react-icons/fa";
+import { LogoFacebook, LogoLinkedin } from '@gravity-ui/icons';
+import Link from 'next/link';
+import { FaMastodon } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -20,17 +19,26 @@ const Footer = () => {
 
           <div className="flex items-center gap-2">
             <div>
-              <Link target="_blank" href={"https://www.facebook.com/salmanshahibneriyaj"}>
+              <Link
+                target="_blank"
+                href={'https://www.facebook.com/salmanshahibneriyaj'}
+              >
                 <LogoFacebook></LogoFacebook>
               </Link>
             </div>
             <div>
-              <Link target="_blank" href={"https://www.linkedin.com/in/salman-ibn-riyaj/"}>
+              <Link
+                target="_blank"
+                href={'https://www.linkedin.com/in/salman-ibn-riyaj/'}
+              >
                 <LogoLinkedin></LogoLinkedin>
               </Link>
             </div>
             <div>
-              <Link target="_blank" href={"https://mastodon.social/@salmanshahrz"}>
+              <Link
+                target="_blank"
+                href={'https://mastodon.social/@salmanshahrz'}
+              >
                 <FaMastodon />
               </Link>
             </div>
@@ -41,9 +49,9 @@ const Footer = () => {
           <h2 className="text-xl font-bold mb-5">Contact info</h2>
 
           <div>
-            <p>Email: salmanibnriyaj@gmail.com</p>
-            <p>Yahoo mail: salmanibnriyaj@yahoo.com</p>
-            <p>WhatsApp: +8801894692543</p>
+            <p>Email: rajib.faysal.124@gmail.com</p>
+            <p>Yahoo mail: rajib.faysal.124@yahoo.com</p>
+            <p>WhatsApp: +880177228811</p>
           </div>
         </div>
       </div>
